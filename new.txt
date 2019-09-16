@@ -1,3 +1,2 @@
 aaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbbbbbb
-1123321
+echo "bbbbbbbbbbbbbbbbbbbbbbb"
